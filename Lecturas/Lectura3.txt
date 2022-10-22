@@ -1,0 +1,8 @@
+En 1896 Henry Becquerel encontró que las sales de uranio emitían radiaciones penetrantes semejantes 
+a las que Roentgen había producido solamente un año antes con un tubo de descarga de gases. 
+Los elementos que son naturalmente radiactivos emiten radiaciones espontáneamente sin la adición de
+cualquier energía de ellos. Rutherford y Soddy investigando el fenómeno descubierto por Becquerel,
+encontraron que los hechos empíricos de la radiactividad podían explicarse suponiendo que los 
+átomos radioactivos no eran estables sino que se desintegraban a velocidades características 
+para formar nuevos átomos de otros elementos tan pronto como las emisiones radiactivas 
+se identificaron experimentalmente y se probó que los rayos alfa eran realmente iones de helio

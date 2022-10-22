@@ -1,10 +1,6 @@
 import os
 
 def main():
-    # primero debe de imprimir la bienvenida 
-    # Explica que se hace tanto en español como en ciencias
-    # despues pregunta si desea iniciar con español o
-    # ciencias
     os.system('cls' if os.name == 'nt' else 'clear')
     respuesta = bienvenida()
     os.system('cls' if os.name == 'nt' else 'clear')
@@ -19,10 +15,7 @@ def main():
                 break
             else:
                 pregunta = input('\n1) Español \n2) Ciencias\n\nCuál es la materia que desea practicar? (escriba el numero): ')
-    # limpiar consola para desplegar la nueva pregunta y
-    # asi suscesivamente hasta acabar 
-
-    # al ultimo despliega resultados     
+   
 
 def bienvenida():
     print(
